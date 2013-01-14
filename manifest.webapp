@@ -1,0 +1,19 @@
+{
+	"version": "1.0",
+	"name": "Orbium",
+	"description": "",
+	"icons": {
+		"16": "/ico/app_16x16.png",
+		"48": "/ico/app_48x48.png",
+		"128": "/ico/app_114x114.png"
+	},
+	"developer": {
+	"name": "Richard Davey",
+	"url": "http://www.photonstorm.com"
+	},
+	"installs_allowed_from":
+	["*"]
+	,
+	"default_locale": "en",
+	"orientation": "portrait"
+}
